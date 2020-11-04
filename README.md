@@ -50,3 +50,7 @@ func main() {
 
 ## Roadmap
 
+More providers, particularly:
+- Google cloud storage
+- Azure blob storage
+
